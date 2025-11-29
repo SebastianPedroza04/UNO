@@ -39,7 +39,7 @@ Incluye:
   - `Graph` + `GraphAlgorithms` (BFS, A*)
 
 👉 **Explicación detallada en:**  
-📄 [`docs/Estructuras.md`](docs/Estructuras.md)
+📄 [`docs/Estructuras.md`](Estructuras.md)
 
 ---
 
@@ -87,7 +87,7 @@ Interfaz gráfica en WPF:
 
 Toda la explicación de las estructuras de datos se encuentra aquí:
 
-👉 [`docs/Estructuras.md`](docs/Estructuras.md)
+👉 [`docs/Estructuras.md`](Estructuras.md)
 
 Ahí verás:
 - Qué estructura se implementó,
@@ -110,3 +110,4 @@ Ahí verás:
 ## 👤 Autor
 
 Proyecto académico para el curso de **Estructuras de Datos**, implementado desde cero para fines educativos y demostrativos.
+
